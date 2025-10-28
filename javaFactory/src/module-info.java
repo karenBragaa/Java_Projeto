@@ -4,5 +4,5 @@
 /**
  * 
  */
-module curso_java14 {
+module javaFactory {
 }
